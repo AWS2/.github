@@ -1,0 +1,8 @@
+{
+    "name": "MySQL autograde template",
+    "description": "MySQL for AWS2 autograde.",
+    "iconName": "example-icon",
+    "categories": [
+        "PHP", "Python"
+    ],
+}
